@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Wildlife</title>
+</head>
+<body>
+<h1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wildlife - A Definition
+</h1><hr>
+<p align="left">Wildlife traditionally refers to non-domesticated animal species.but has<br>
+come to include all plants,fungi and other organisms that grow or live<br>
+wild in an area without being introduced by humans.It can be found in all<br>
+ecosystems.Deserts,forests,rain forests,plains,grasslands and other<br>
+areas including the most developed urban sites,all have distint forms of<br>
+wildlife.</p>
+<ul>
+<li>Adopt An Animal</li></ul>
+<ol>
+<li>&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Tiger">Tiger</a></li>
+<li>&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Elephant">Elephants</a></li>
+<li>&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Wolf">Wolf</a></li>
+<li>&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Giraffe">Giraffe</a></li>
+<li>&nbsp;&nbsp;&nbsp; <a href="https://en.wikipedia.org/wiki/Leopard">Leopard</a></li>
+</ol>
+<ul>
+<li>Wildlife Aid Education</li>
+<li>Latest News & Events</li>
+<li>Photo Gallery</li>
+</ul>
+<h2>PEOPLE WORKING FOR WILDLIFE PROTECTION</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Amrit</td>
+    <td>Raj</td>
+    <td>18</td>
+
+  </tr>
+  <tr>
+    <td>Aneesh</td>
+    <td>Raj</td>
+    <td>19</td>
+
+  </tr>
+  <tr>
+
+    <td>Anand</td>
+    <td>kumar</td>
+    <td>17</td>
+
+  </tr>
+</table>
+<h3>CONCLUSION</H3>
+<P>The reals reason to conserve wildlife in the wild is to conserve the ecosystems<br>
+ in which the relevant animals (and plants) live, because these ecosystems provide<br>
+ us with clean air, clean water, food, and shelter. Forest removal has climatic effects,<br>
+ increases erosion and silts up rivers.<br></p>
+</body>
+</html>
